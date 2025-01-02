@@ -2,6 +2,19 @@
 
 Головоломка с несколькими уровнями. Управление на двух кнопках.
 
+# Распиновка
+
+| Wire            |  Pin   |
+| --------------- | ------ |
+| Green Wires     | Ground |
+| Yellow Led      | D1     |
+| Orange Led      | D2     |
+| Red Led         | D5     |
+| Left Green Eye  | D6     |
+| Right Green Eye | D7     |
+| Left Knob Ear   | D3     |
+| Right Knob Ear  | D4     |
+
 # Фотографии
 
 <img src="img/img_1.jpg" alt="img_1.jpg" width="400"/>
